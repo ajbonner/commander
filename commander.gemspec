@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
                          services hosted on remote servers accessible via SSH}
   gem.license       = "MIT"
   gem.authors       = ["Aaron Bonner"]
-  gem.email         = "aaron@muscleandstrength.com"
+  gem.email         = "aaron@aaronbonner.io"
   gem.homepage      = "https://rubygems.org/gems/commander"
 
   gem.files         = `git ls-files`.split($/)
